@@ -37,3 +37,21 @@ FORM
 ![WhatsApp Image 2022-03-29 at 22 28 25](https://user-images.githubusercontent.com/101815570/160651219-4bc12a53-6489-4e4e-b9b9-40e675c4e961.jpeg)
 
 ![WhatsApp Image 2022-03-29 at 22 28 45](https://user-images.githubusercontent.com/101815570/160651477-edd6e325-aa1c-44fe-9c6c-9bf9d9fabfe8.jpeg)
+
+Buatlah form yang menampilkan dropdown menu dan listbox dengan multiple selection. 
+
+Dropdown menu 
+
+![WhatsApp Image 2022-03-29 at 22 58 00](https://user-images.githubusercontent.com/101815570/160655048-708fc5cd-8838-40c5-aa08-39d1b53ce393.jpeg)
+
+![WhatsApp Image 2022-03-29 at 22 58 27](https://user-images.githubusercontent.com/101815570/160655096-5f6dffb8-cfdf-4253-8a50-0578fc1bb7ea.jpeg)
+
+![WhatsApp Image 2022-03-29 at 22 58 40](https://user-images.githubusercontent.com/101815570/160655138-87c94a07-0bdb-4bf9-92ff-31c8c4447bbe.jpeg)
+
+Listbox Multiple Selection
+
+![WhatsApp Image 2022-03-29 at 23 09 59](https://user-images.githubusercontent.com/101815570/160656961-0167d2d5-06cc-45a9-af30-88187f078817.jpeg)
+
+![WhatsApp Image 2022-03-29 at 23 10 07](https://user-images.githubusercontent.com/101815570/160657005-b252d538-a12c-4e08-a067-d9a19a9fc044.jpeg)
+
+Terimakasi.
